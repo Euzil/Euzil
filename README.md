@@ -1,4 +1,10 @@
 ![](url)
+# 大家好捏 👋
+## 欢迎大家来到我的github频道
+我...一个靓仔...做个自我介绍...
+一个平凡普通的留德华...本科在吕贝克大学学机器人自动化...现在在TUM读机器人感知智能的研究生...
+自由懒散...不爱学习...纯纯five...
+我写了很多的代码...(其实就是作业啦)...相信大家对我的作业答案也不是很感兴趣...所以我把他们设为了private...(写过Java的人都知道这里边的门道儿有多深)
 ![](https://github-readme-stats.vercel.app/api?username=Euzil&show_icons=true&theme=transparent)
 ![Visitor Count](https://profile-counter.glitch.me/Euzil/count.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euzil&layout=compact&theme=tokyonight)
@@ -12,8 +18,7 @@
 
 
 
-### 大家好捏 👋
-欢迎大家来到我的github频道
+
 我...一个靓仔...做个自我介绍...
 一个平凡普通的留德华...本科在吕贝克大学学机器人自动化...现在在TUM读机器人感知智能的研究生...
 自由懒散...不爱学习...纯纯five...
