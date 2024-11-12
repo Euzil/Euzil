@@ -66,7 +66,7 @@
 | TUM Regelgungstechnik| Control for Robotics |
 | TUM Regelgungstechnik| Dynamische Systeme |  
 | TUM Informatik| TUM-IT Sicherheit |
-| MyIdea | PythonScript |
+| My Idea | PythonScript |
 
 ### 我写了很多的代码...(其实就是作业啦)... (写过作业的人都知道这里边的门道儿有多深)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euzil&layout=compact&theme=tokyonight)  
@@ -79,6 +79,8 @@
 | UniLuebeck Projekt|:heavy_check_mark:| Bachlor Projekt |
 | UniLuebeck Projekt|:heavy_check_mark:| Bachlorarbeit |
 | TUM Projekt|:heavy_check_mark:| Computer Vision Challenges|  
+| My Idea |  :green_book: | PythonScript |
+| My Idea |  :green_book: | DiscordRob |
 
 ### 我的鼓捣：
 | 所属 | 状态 | 科目名称 |
