@@ -41,7 +41,7 @@
 <p>&emsp;&emsp;有代码问题需要借鉴 :clipboard: 的同学...</p>  
 <p>&emsp;&emsp;或是有什么可以互相讨论 :raised_hands: 的好兄弟们的... </p>   
 <p>&emsp;&emsp;可以直接留言 :speech_balloon: 给我...</p>
-<p>&emsp;&emsp;但是我还是会公开一个项目在这里...po一些很不错的代码...希望会对各位有帮助啦！！！</p>
+<p>&emsp;&emsp;但是我会直接公开一些项目在这里...po一些很不错的代码...希望会对各位有帮助啦！！！</p>
 <p>&emsp;&emsp;<strong>欢迎大家star :gift_heart: 我的代码</strong></p>
 
 
