@@ -13,9 +13,10 @@
 
 <!-- profile logo 个人资料徽标 -->
   <div>
-   <img alt="Static Badge" src="https://img.shields.io/badge/Germany-TU_Munich-Munich?logoColor=green">
-   <img alt="Static Badge" src="https://img.shields.io/badge/Student-Informatik-1?logoColor=green&labelColor=blue&color=yellow">
-
+   <img alt="Static Badge" src="https://img.shields.io/badge/Uni_luebeck-TU_Munich-Munich?logoColor=green">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Student-Informatiker-1?logoColor=green&labelColor=purple&color=yellow">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Mashine_Learning-Deep_Learning-3?logoColor=green&labelColor=orange&color=blue">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Robtics-AI-1?logoColor=green&labelColor=red&color=black">
   </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -28,12 +29,31 @@
 </div>
 
 ![](url)
-# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=自由懒散...不爱学习...;纯纯five...摆烂第一名)
-# 欢迎是第 [![Visitor Count](https://profile-counter.glitch.me/Euzil/count.svg)] 位好朋友  
-### 做个自我介绍...   
-### 本科在吕贝克大学学机器人自动化...现在在慕尼黑工业大学读机器人感知智能的研究生...   
+# 欢迎 :wave: 第 [![Visitor Count](https://profile-counter.glitch.me/Euzil/count.svg)] 位好朋友  
+### 一些数据 :floppy_disk: 
+![](https://stats.justsong.cn/api/leetcode?username=Euzil&cn=true&theme=tokyonight)
+![](https://stats.justsong.cn/api/bilibili/?id=515516716&cn=true&theme=blue-green)  
+### About Me :runner:
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=10&color=BC20F7&center=true&vCenter=true&width=435&lines=%E8%87%AA%E7%94%B1%E6%87%92%E6%95%A3...;%E4%B8%8D%E7%88%B1%E5%AD%A6%E4%B9%A0...;%E6%91%86%E7%83%82%E7%AC%AC%E4%B8%80%E5%90%8D...;%E5%B9%B2%E9%A5%AD%E5%B0%8F%E8%83%BD%E6%89%8B...;%E5%B9%B2%E5%95%A5%E5%95%A5%E4%B8%8D%E8%A1%8C...)](https://git.io/typing-svg)  
+<p>&emsp;&emsp;想要赶快毕业 :100: 啊啊啊啊啊.......</p>
+<p>&emsp;&emsp;因为太多Repositories... :books: 不太好管理啦...</p>
+<p>&emsp;&emsp;如果有需要的朋友 :raising_hand:...</p>  
+<p>&emsp;&emsp;有代码问题需要借鉴 :clipboard: 的同学...</p>  
+<p>&emsp;&emsp;或是有什么可以互相讨论 :raised_hands: 的好兄弟们的... </p>   
+<p>&emsp;&emsp;可以直接留言 :speech_balloon: 给我...</p>
+<p>&emsp;&emsp;但是我还是会公开一个项目在这里...po一些很不错的代码...希望会对各位有帮助啦！！！</p>
+<p>&emsp;&emsp;<strong>欢迎大家star :gift_heart: 我的代码</strong></p>
+
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+</td></tr>
+
+<tr><td>
+  
 ### 最近状态和任务
-![GitHub Streak](https://streak-stats.demolab.com/?user=Euzil)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Euzil)![](https://github-readme-stats.vercel.app/api?username=Euzil&show_icons=true&theme=transparent)
 | 所属科目 |  项目名称 |
 | :-----|  :----: |
 | TUM Robotik| Robotik |
@@ -44,11 +64,10 @@
 | TUM Informatik| Methode-of-Product |
 | TUM Regelgungstechnik| Advanced Control |
 | TUM Regelgungstechnik| Control for Robotics |
-| TUM Regelgungstechnik| Dynamische Systeme |
-### 我写了很多的代码...(其实就是作业啦)...  
+| TUM Regelgungstechnik| Dynamische Systeme |  
+
+### 我写了很多的代码...(其实就是作业啦)... (写过作业的人都知道这里边的门道儿有多深)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euzil&layout=compact&theme=tokyonight)  
-### 相信大家对我的作业答案也不是很感兴趣...  
-### 所以我把他们设为了private...(写过Java的人都知道这里边的门道儿有多深)  
 ### 我的鼓捣：
 | 所属科目 | 状态 | 项目名称 |
 | :-----| ----: | :----: |
@@ -88,22 +107,4 @@
 | TUM Regelgungstechnik| :green_book: | Advanced Control |
 | TUM Regelgungstechnik|:sos:| Control for Robotics |
 | TUM Regelgungstechnik| :green_book: | Dynamische Systeme |
-| TUM Regelgungstechnik| :heavy_check_mark: | Entrepreneurial Opportunities in 6G |
-### 因为太多Repositories...不太好管理啦...  
-### 如果有需要的朋友...有代码问题需要借鉴的同学...或是有什么可以互相讨论的好兄弟们的...  
-### 可以直接留言给我...
-### 但是我还是会公开一个项目在这里...po一些很不错的代码...希望会对各位有帮助啦！！！
-# 欢迎大家star我的代码
-
-
-
-### Hi there 👋
-- 🔭 I’m currently working on Robotik, CV and AI
-- 🌱 I’m currently learning how to do a projekt.
-- 👯 I’m looking to collaborate on NOTHING
-- 🤔 I’m looking for help with my projekts
-- 💬 Ask me about everything, but i will not answer :)
-- 📫 How to reach me: im hiding on bush
-- 😄 Pronouns: ... xixixi 
-- ⚡ Fun fact: ...
--->
+| TUM Regelgungstechnik| :heavy_check_mark: | Entrepreneurial Opportunities in 6G |  
