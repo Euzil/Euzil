@@ -65,7 +65,7 @@
 | TUM Regelgungstechnik| Advanced Control |
 | TUM Regelgungstechnik| Control for Robotics |
 | TUM Regelgungstechnik| Dynamische Systeme |  
-| TUM Informatik| TUM-It Sicherheit |
+| TUM Informatik| TUM-IT Sicherheit |
 
 ### 我写了很多的代码...(其实就是作业啦)... (写过作业的人都知道这里边的门道儿有多深)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euzil&layout=compact&theme=tokyonight)  
