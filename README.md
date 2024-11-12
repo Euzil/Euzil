@@ -1,4 +1,8 @@
-![Metrics](/github-metrics.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Euzil/Euzil/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Euzil/Euzil/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Euzil/Euzil/output/github-contribution-grid-snake.svg">
+</picture>
 ![](url)
 # ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=自由懒散...不爱学习...;纯纯five...摆烂第一名)
 # 欢迎是第![Visitor Count](https://profile-counter.glitch.me/Euzil/count.svg)位好朋友  
