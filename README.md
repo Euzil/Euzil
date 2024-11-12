@@ -1,14 +1,46 @@
 ![](url)
+<div align="center">
+
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+  
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=自由懒散...不爱学习...;纯纯five...摆烂第一名)
 # 欢迎是第![Visitor Count](https://profile-counter.glitch.me/Euzil/count.svg)位好朋友  
 ### 做个自我介绍...   
-### 一个平凡普通的留德华...  
-# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=自由懒散...不爱学习...;纯纯five...摆烂第一名)
 ### 本科在吕贝克大学学机器人自动化...现在在慕尼黑工业大学读机器人感知智能的研究生...   
+### 最近状态和任务
+![GitHub Streak](https://streak-stats.demolab.com/?user=Euzil)
+| 所属科目 |  项目名称 |
+| :-----|  :----: |
+| TUM Robotik| Robotik |
+| TUM Informatik| Fundamentals of AI |
+| TUM Informatik| Maschine Learning |
+| TUM Informatik| Visual Data Analytics |
+| TUM Informatik| Introduction to Deep Learning ||
+| TUM Informatik| Methode-of-Product |
+| TUM Regelgungstechnik| Advanced Control |
+| TUM Regelgungstechnik| Control for Robotics |
+| TUM Regelgungstechnik| Dynamische Systeme |
 ### 我写了很多的代码...(其实就是作业啦)...  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euzil&layout=compact&theme=tokyonight)  
 ### 相信大家对我的作业答案也不是很感兴趣...  
 ### 所以我把他们设为了private...(写过Java的人都知道这里边的门道儿有多深)  
-### 最近我在鼓捣：
+### 我的鼓捣：
 | 所属科目 | 状态 | 项目名称 |
 | :-----| ----: | :----: |
 | UniLuebeck Math |:heavy_check_mark:| Analysis |
@@ -51,12 +83,8 @@
 ### 因为太多Repositories...不太好管理啦...  
 ### 如果有需要的朋友...有代码问题需要借鉴的同学...或是有什么可以互相讨论的好兄弟们的...  
 ### 可以直接留言给我...
-![GitHub Streak](https://streak-stats.demolab.com/?user=Euzil)
-![](https://github-readme-activity-graph.cyclic.app/graph?username=Euzil&theme=dracula)
-![trophy](https://github-profile-trophy.vercel.app/?username=Euzil)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Euzil)
-## 但是我还是会公开一个项目在这里...po一些很不错的代码...希望会对各位有帮助啦！！！
-# 感谢大家star我的代码
+### 但是我还是会公开一个项目在这里...po一些很不错的代码...希望会对各位有帮助啦！！！
+# 欢迎大家star我的代码
 
 
 
