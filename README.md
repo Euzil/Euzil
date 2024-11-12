@@ -102,6 +102,7 @@
 | TUM Informatik|:sos:| Statistical Signal Processing |
 | TUM Informatik| :green_book: | Introduction to Deep Learning |
 | TUM Informatik|:sos:| Computer Vision |
+| TUM Informatik|:heavy_check_mark:| Computer Vision Challenges|
 | TUM Informatik| :green_book: | Methode-of-Product |
 | TUM Regelgungstechnik|:sos:| Adaptive Control |
 | TUM Regelgungstechnik| :green_book: | Advanced Control |
