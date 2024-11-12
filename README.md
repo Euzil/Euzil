@@ -69,8 +69,18 @@
 
 ### 我写了很多的代码...(其实就是作业啦)... (写过作业的人都知道这里边的门道儿有多深)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euzil&layout=compact&theme=tokyonight)  
-### 我的鼓捣：
+### 做了一些项目...
 | 所属科目 | 状态 | 项目名称 |
+| :-----| ----: | :----: |
+| UniLuebeck Projekt|:heavy_check_mark:| Java Projekt |
+| UniLuebeck Projekt|:heavy_check_mark:| Praktikum Software Engineer |
+| UniLuebeck Projekt|:heavy_check_mark:| Praktikum Robotik und Autonomie System |
+| UniLuebeck Projekt|:heavy_check_mark:| Bachlor Projekt |
+| UniLuebeck Projekt|:heavy_check_mark:| Bachlorarbeit |
+| TUM Projekt|:heavy_check_mark:| Computer Vision Challenges|  
+
+### 我的鼓捣：
+| 所属科目 | 状态 | 科目名称 |
 | :-----| ----: | :----: |
 | UniLuebeck Math |:heavy_check_mark:| Analysis |
 | UniLuebeck Math |:heavy_check_mark:| Linear Algebra Diskrete Strukturen |
@@ -90,11 +100,6 @@
 | UniLuebeck Robotik|:heavy_check_mark:| Elektrotechnik |
 | UniLuebeck Robotik|:heavy_check_mark:| Künstliche Intelligenz |
 | UniLuebeck Robotik|:heavy_check_mark:| Mobile Roboter |
-| UniLuebeck Projekt|:heavy_check_mark:| Java Projekt |
-| UniLuebeck Projekt|:heavy_check_mark:| Praktikum Software Engineer |
-| UniLuebeck Projekt|:heavy_check_mark:| Praktikum Robotik und Autonomie System |
-| UniLuebeck Projekt|:heavy_check_mark:| Bachlor Projekt |
-| UniLuebeck Projekt|:heavy_check_mark:| Bachlorarbeit |
 | TUM Robotik| :green_book: | Robotik |
 | TUM Informatik| :green_book: | Fundamentals of AI |
 | TUM Informatik| :green_book: | Maschine Learning |
@@ -103,7 +108,6 @@
 | TUM Informatik|:sos:| Statistical Signal Processing |
 | TUM Informatik| :green_book: | Introduction to Deep Learning |
 | TUM Informatik|:sos:| Computer Vision |
-| TUM Informatik|:heavy_check_mark:| Computer Vision Challenges|
 | TUM Informatik| :green_book: | Methode-of-Product |
 | TUM Regelgungstechnik|:sos:| Adaptive Control |
 | TUM Regelgungstechnik| :green_book: | Advanced Control |
