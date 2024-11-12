@@ -54,7 +54,7 @@
   
 ### 最近状态和任务
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Euzil)![](https://github-readme-stats.vercel.app/api?username=Euzil&show_icons=true&theme=transparent)
-| 所属科目 |  项目名称 |
+| 所属 |  科目名称 |
 | :-----|  :----: |
 | TUM Robotik| Robotik |
 | TUM Informatik| Fundamentals of AI |
@@ -70,7 +70,7 @@
 ### 我写了很多的代码...(其实就是作业啦)... (写过作业的人都知道这里边的门道儿有多深)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euzil&layout=compact&theme=tokyonight)  
 ### 做了一些项目...
-| 所属科目 | 状态 | 项目名称 |
+| 所属 | 状态 | 项目名称 |
 | :-----| ----: | :----: |
 | UniLuebeck Projekt|:heavy_check_mark:| Java Projekt |
 | UniLuebeck Projekt|:heavy_check_mark:| Praktikum Software Engineer |
@@ -80,7 +80,7 @@
 | TUM Projekt|:heavy_check_mark:| Computer Vision Challenges|  
 
 ### 我的鼓捣：
-| 所属科目 | 状态 | 科目名称 |
+| 所属 | 状态 | 科目名称 |
 | :-----| ----: | :----: |
 | UniLuebeck Math |:heavy_check_mark:| Analysis |
 | UniLuebeck Math |:heavy_check_mark:| Linear Algebra Diskrete Strukturen |
