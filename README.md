@@ -1,3 +1,4 @@
+![Metrics](/github-metrics.svg)
 ![](url)
 # ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=自由懒散...不爱学习...;纯纯five...摆烂第一名)
 # 欢迎是第![Visitor Count](https://profile-counter.glitch.me/Euzil/count.svg)位好朋友  
