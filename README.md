@@ -100,6 +100,8 @@
 | UniLuebeck Robotik|:heavy_check_mark:| Elektrotechnik |
 | UniLuebeck Robotik|:heavy_check_mark:| Künstliche Intelligenz |
 | UniLuebeck Robotik|:heavy_check_mark:| Mobile Roboter |
+| TUM Informatik| :green_book: | TUM-IT Sicherheit |
+| TUM Informatik| :heavy_check_mark: | Einfuehrung-in-die-Rechnerarchitektur |
 | TUM Robotik| :green_book: | Robotik |
 | TUM Informatik| :green_book: | Fundamentals of AI |
 | TUM Informatik| :green_book: | Maschine Learning |
@@ -114,4 +116,3 @@
 | TUM Regelgungstechnik|:sos:| Control for Robotics |
 | TUM Regelgungstechnik| :green_book: | Dynamische Systeme |
 | TUM Regelgungstechnik| :heavy_check_mark: | Entrepreneurial Opportunities in 6G |  
-| TUM Informatik| :green_book: | TUM-IT Sicherheit |
