@@ -114,4 +114,4 @@
 | TUM Regelgungstechnik|:sos:| Control for Robotics |
 | TUM Regelgungstechnik| :green_book: | Dynamische Systeme |
 | TUM Regelgungstechnik| :heavy_check_mark: | Entrepreneurial Opportunities in 6G |  
-| TUM Informatik| :green_book: | TUM-It Sicherheit |
+| TUM Informatik| :green_book: | TUM-IT Sicherheit |
