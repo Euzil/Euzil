@@ -13,8 +13,9 @@
 
 <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://www.peterjxl.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=Peter-JXL&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+   <img alt="Static Badge" src="https://img.shields.io/badge/Germany-TU_Munich-Munich?logoColor=green">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Student-Informatik-1?logoColor=green&labelColor=blue&color=yellow">
+
   </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -28,7 +29,7 @@
 
 ![](url)
 # ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=自由懒散...不爱学习...;纯纯five...摆烂第一名)
-# 欢迎是第![Visitor Count](https://profile-counter.glitch.me/Euzil/count.svg)位好朋友  
+# 欢迎是第 [![Visitor Count](https://profile-counter.glitch.me/Euzil/count.svg)] 位好朋友  
 ### 做个自我介绍...   
 ### 本科在吕贝克大学学机器人自动化...现在在慕尼黑工业大学读机器人感知智能的研究生...   
 ### 最近状态和任务
