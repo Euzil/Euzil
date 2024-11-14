@@ -81,6 +81,7 @@
 | TUM Projekt|:heavy_check_mark:| Computer Vision Challenges|  
 | My Idea |  :green_book: | PythonScript |
 | My Idea |  :green_book: | DiscordRob |
+| My Idea |  :heavy_check_mark: | QQzone |
 
 ### 我的鼓捣：
 | 所属 | 状态 | 科目名称 |
