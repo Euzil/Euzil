@@ -80,7 +80,7 @@
 | UniLuebeck Projekt|:heavy_check_mark:| Bachlor Projekt |
 | UniLuebeck Projekt|:heavy_check_mark:| Bachlorarbeit |
 | TUM Projekt|:heavy_check_mark:| Computer Vision Challenges|  
-| TUM Projekt | :green_book: | Robot Motion Planning |
+| TUM Projekt | :sos: | Robot Motion Planning |
 | My Idea |  :green_book: | PythonScript |
 | My Idea |  :green_book: | DiscordRob |
 | My Idea |  :heavy_check_mark: | QQzone |
