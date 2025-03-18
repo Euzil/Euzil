@@ -56,7 +56,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Euzil)![](https://github-readme-stats.vercel.app/api?username=Euzil&show_icons=true&theme=transparent)
 | 所属 |  科目名称 |
 | :-----|  :----: |
-| TUM Robotik| Robotik |
 | TUM Informatik| Fundamentals of AI |
 | TUM Informatik| Maschine Learning |
 | TUM Informatik| Visual Data Analytics |
@@ -67,6 +66,7 @@
 | TUM Regelgungstechnik| Dynamische Systeme |  
 | TUM Informatik| TUM-IT Sicherheit |
 | My Idea | PythonScript |
+| Team Work | SIM2REAL |
 | TUM Projekt | Robot Motion Planning |
 
 ### 我写了很多的代码...(其实就是作业啦)... (写过作业的人都知道这里边的门道儿有多深)  
@@ -84,6 +84,7 @@
 | My Idea |  :green_book: | PythonScript |
 | My Idea |  :green_book: | DiscordRob |
 | My Idea |  :heavy_check_mark: | QQzone |
+| Team Work |  :green_book: | SIM2REAL |
 
 ### 我的鼓捣：
 | 所属 | 状态 | 科目名称 |
@@ -108,7 +109,7 @@
 | UniLuebeck Robotik|:heavy_check_mark:| Mobile Roboter |
 | TUM Informatik| :green_book: | TUM-IT Sicherheit |
 | TUM Informatik| :heavy_check_mark: | Einfuehrung-in-die-Rechnerarchitektur |
-| TUM Robotik| :green_book: | Robotik |
+| TUM Robotik| :heavy_check_mark: | Robotik |
 | TUM Projekt | :green_book:| Robot Motion Planning |
 | TUM Informatik| :green_book: | Fundamentals of AI |
 | TUM Informatik| :green_book: | Maschine Learning |
