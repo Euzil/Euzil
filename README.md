@@ -58,7 +58,6 @@
 | :-----|  :----: |
 | TUM Informatik| Fundamentals of AI |
 | TUM Informatik| Maschine Learning |
-| TUM Informatik| Visual Data Analytics |
 | TUM Informatik| Introduction to Deep Learning ||
 | TUM Informatik| Methode-of-Product |
 | TUM Regelgungstechnik| Advanced Control |
@@ -113,7 +112,7 @@
 | TUM Projekt | :green_book:| Robot Motion Planning |
 | TUM Informatik| :green_book: | Fundamentals of AI |
 | TUM Informatik| :green_book: | Maschine Learning |
-| TUM Informatik| :green_book: | Visual Data Analytics |
+| TUM Informatik| :heavy_check_mark: | Visual Data Analytics |
 | TUM Informatik|:sos:| Signal Processing and Machine Learning |
 | TUM Informatik|:sos:| Statistical Signal Processing |
 | TUM Informatik| :green_book: | Introduction to Deep Learning |
