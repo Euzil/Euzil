@@ -72,6 +72,7 @@
 | My Idea | PythonScript |
 | Team Work | SIM2REAL |
 | TUM Projekt | Robot Motion Planning |
+| TUM Projekt | Applied Deep Learning in Medicine |
 
 ### 我写了很多的代码...(其实就是作业啦)... (写过作业的人都知道这里边的门道儿有多深)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euzil&layout=compact&theme=tokyonight)  
@@ -84,7 +85,10 @@
 | UniLuebeck Projekt|:heavy_check_mark:| Bachlor Projekt |
 | UniLuebeck Projekt|:heavy_check_mark:| Bachlorarbeit |
 | TUM Projekt|:heavy_check_mark:| Computer Vision Challenges|  
-| TUM Projekt | :heavy_check_mark: | Robot Motion Planning |
+| TUM Projekt |:green_book: | Applied Deep Learning in Medicine |
+| TUM Master-Seminar | :green_book: | Rehabilitation Robotics ||
+| TUM Seminar | :green_book: | Ethische Herausforderungen von autonomen Maschinen und sprechenden Computern ||
+| TUM Seminar | :green_book: | Angewandte Verantwortungsethik - Wildtiermanagement und Naturschutz ||
 | My Idea |  :green_book: | PythonScript |
 | My Idea |  :green_book: | DiscordRob |
 | My Idea |  :heavy_check_mark: | QQzone |
@@ -128,6 +132,7 @@
 | TUM Informatik| :green_book: | Informatikanwendungen in der Medizin II ||
 | TUM Informatik| :green_book: | Introduction to Emerging Computing Technologies ||
 | TUM Informatik| :green_book: | Introduction to ROS ||
+| TUM Projekt |:green_book: | Applied Deep Learning in Medicine |
 | TUM Master-Seminar | :green_book: | Rehabilitation Robotics ||
 | TUM Seminar | :green_book: | Ethische Herausforderungen von autonomen Maschinen und sprechenden Computern ||
 | TUM Seminar | :green_book: | Angewandte Verantwortungsethik - Wildtiermanagement und Naturschutz ||
