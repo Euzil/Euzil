@@ -129,5 +129,5 @@
 | TUM Informatik| :green_book: | Introduction to Emerging Computing Technologies ||
 | TUM Informatik| :green_book: | Introduction to ROS ||
 | TUM Master-Seminar | :green_book: | Rehabilitation Robotics ||
-| TUM Seminar | :green_book: | Moralische Bots? - Ethische Herausforderungen von autonomen Maschinen und sprechenden Computern ||
+| TUM Seminar | :green_book: | Ethische Herausforderungen von autonomen Maschinen und sprechenden Computern ||
 | TUM Seminar | :green_book: | Angewandte Verantwortungsethik - Wildtiermanagement und Naturschutz ||
