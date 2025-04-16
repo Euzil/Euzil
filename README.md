@@ -111,10 +111,10 @@
 | UniLuebeck Robotik|:heavy_check_mark:| Elektrotechnik |
 | UniLuebeck Robotik|:heavy_check_mark:| Künstliche Intelligenz |
 | UniLuebeck Robotik|:heavy_check_mark:| Mobile Roboter |
-| TUM Informatik| :green_book: | TUM-IT Sicherheit |
+| TUM Informatik| :heavy_check_mark: | TUM-IT Sicherheit |
 | TUM Informatik| :heavy_check_mark: | Einfuehrung-in-die-Rechnerarchitektur |
 | TUM Robotik| :heavy_check_mark: | Robotik |
-| TUM Projekt | :green_book:| Robot Motion Planning |
+| TUM Projekt | :heavy_check_mark:| Robot Motion Planning |
 | TUM Informatik| :green_book: | Fundamentals of AI |
 | TUM Informatik| :green_book: | Maschine Learning |
 | TUM Informatik| :heavy_check_mark: | Visual Data Analytics |
