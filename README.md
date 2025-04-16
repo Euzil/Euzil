@@ -59,11 +59,19 @@
 | TUM Informatik| Fundamentals of AI |
 | TUM Informatik| Maschine Learning |
 | TUM Informatik| Introduction to Deep Learning ||
-| TUM Informatik| Methode-of-Product |
-| TUM Regelgungstechnik| Advanced Control |
-| TUM Regelgungstechnik| Control for Robotics |
-| TUM Regelgungstechnik| Dynamische Systeme |  
-| TUM Informatik| TUM-IT Sicherheit |
+
+| TUM Informatik| Artificial Intelligence in Medicine II ||
+| TUM Informatik| Biomechanik - Grundlagen und Modellbildung ||
+| TUM Informatik| Cloud Computing ||
+| TUM Informatik| Computer Vision II: Multiple View Geometry ||
+| TUM Informatik| Informatikanwendungen in der Medizin II ||
+| TUM Informatik| Introduction to Emerging Computing Technologies ||
+| TUM Informatik| Introduction to ROS ||
+
+| TUM Master-Seminar | Rehabilitation Robotics ||
+| TUM Seminar | Moralische Bots? - Ethische Herausforderungen von autonomen Maschinen und sprechenden Computern ||
+| TUM Seminar | Angewandte Verantwortungsethik - Wildtiermanagement und Naturschutz ||
+
 | My Idea | PythonScript |
 | Team Work | SIM2REAL |
 | TUM Projekt | Robot Motion Planning |
@@ -113,13 +121,17 @@
 | TUM Informatik| :green_book: | Fundamentals of AI |
 | TUM Informatik| :green_book: | Maschine Learning |
 | TUM Informatik| :heavy_check_mark: | Visual Data Analytics |
-| TUM Informatik|:sos:| Signal Processing and Machine Learning |
-| TUM Informatik|:sos:| Statistical Signal Processing |
 | TUM Informatik| :green_book: | Introduction to Deep Learning |
-| TUM Informatik|:sos:| Computer Vision |
-| TUM Informatik| :green_book: | Methode-of-Product |
-| TUM Regelgungstechnik|:sos:| Adaptive Control |
-| TUM Regelgungstechnik| :green_book: | Advanced Control |
-| TUM Regelgungstechnik|:sos:| Control for Robotics |
 | TUM Regelgungstechnik| :green_book: | Dynamische Systeme |
 | TUM Regelgungstechnik| :heavy_check_mark: | Entrepreneurial Opportunities in 6G |  
+| TUM Informatik| :green_book: | Artificial Intelligence in Medicine II ||
+| TUM Informatik| :green_book: | Biomechanik - Grundlagen und Modellbildung ||
+| TUM Informatik| :green_book: | Cloud Computing ||
+| TUM Informatik| :green_book: | Computer Vision II: Multiple View Geometry ||
+| TUM Informatik| :green_book: | Informatikanwendungen in der Medizin II ||
+| TUM Informatik| :green_book: | Introduction to Emerging Computing Technologies ||
+| TUM Informatik| :green_book: | Introduction to ROS ||
+
+| TUM Master-Seminar | :green_book: | Rehabilitation Robotics ||
+| TUM Seminar | :green_book: | Moralische Bots? - Ethische Herausforderungen von autonomen Maschinen und sprechenden Computern ||
+| TUM Seminar | :green_book: | Angewandte Verantwortungsethik - Wildtiermanagement und Naturschutz ||
