@@ -59,7 +59,6 @@
 | TUM Informatik| Fundamentals of AI |
 | TUM Informatik| Maschine Learning |
 | TUM Informatik| Introduction to Deep Learning ||
-
 | TUM Informatik| Artificial Intelligence in Medicine II ||
 | TUM Informatik| Biomechanik - Grundlagen und Modellbildung ||
 | TUM Informatik| Cloud Computing ||
@@ -67,11 +66,9 @@
 | TUM Informatik| Informatikanwendungen in der Medizin II ||
 | TUM Informatik| Introduction to Emerging Computing Technologies ||
 | TUM Informatik| Introduction to ROS ||
-
 | TUM Master-Seminar | Rehabilitation Robotics ||
 | TUM Seminar | Moralische Bots? - Ethische Herausforderungen von autonomen Maschinen und sprechenden Computern ||
 | TUM Seminar | Angewandte Verantwortungsethik - Wildtiermanagement und Naturschutz ||
-
 | My Idea | PythonScript |
 | Team Work | SIM2REAL |
 | TUM Projekt | Robot Motion Planning |
