@@ -59,7 +59,8 @@
 | TUM Informatik| Fundamentals of AI |
 | TUM Informatik| Maschine Learning |
 | TUM Informatik| Introduction to Deep Learning ||
-| TUM Informatik| Artificial Intelligence in Medicine II ||
+| TUM Informatik| Messtechnik und medizinische Assistenzsysteme ||
+| TUM Informatik| Neuroprosthetics ||
 | TUM Informatik| Biomechanik - Grundlagen und Modellbildung ||
 | TUM Informatik| Cloud Computing ||
 | TUM Informatik| Computer Vision II: Multiple View Geometry ||
@@ -73,6 +74,8 @@
 | Team Work | SIM2REAL |
 | TUM Projekt | Robot Motion Planning |
 | TUM Projekt | Applied Deep Learning in Medicine |
+| TUM Projekt | Entwicklung und Design nützlicher autonomer Fahrzeuge |
+| TUM Projekt | Modelling and control of legged robots |
 
 ### 我写了很多的代码...(其实就是作业啦)... (写过作业的人都知道这里边的门道儿有多深)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euzil&layout=compact&theme=tokyonight)  
@@ -86,6 +89,8 @@
 | UniLuebeck Projekt|:heavy_check_mark:| Bachlorarbeit |
 | TUM Projekt|:heavy_check_mark:| Computer Vision Challenges|  
 | TUM Projekt |:green_book: | Applied Deep Learning in Medicine |
+| TUM Projekt |:green_book: | Entwicklung und Design nützlicher autonomer Fahrzeuge |
+| TUM Projekt |:green_book: | Modelling and control of legged robots |
 | TUM Master-Seminar | :green_book: | Rehabilitation Robotics ||
 | TUM Seminar | :green_book: | Ethische Herausforderungen von autonomen Maschinen und sprechenden Computern ||
 | TUM Seminar | :green_book: | Angewandte Verantwortungsethik - Wildtiermanagement und Naturschutz ||
@@ -125,14 +130,17 @@
 | TUM Informatik| :green_book: | Introduction to Deep Learning |
 | TUM Regelgungstechnik| :green_book: | Dynamische Systeme |
 | TUM Regelgungstechnik| :heavy_check_mark: | Entrepreneurial Opportunities in 6G |  
-| TUM Informatik| :green_book: | Artificial Intelligence in Medicine II ||
 | TUM Informatik| :green_book: | Biomechanik - Grundlagen und Modellbildung ||
 | TUM Informatik| :green_book: | Cloud Computing ||
 | TUM Informatik| :green_book: | Computer Vision II: Multiple View Geometry ||
 | TUM Informatik| :green_book: | Informatikanwendungen in der Medizin II ||
 | TUM Informatik| :green_book: | Introduction to Emerging Computing Technologies ||
 | TUM Informatik| :green_book: | Introduction to ROS ||
+| TUM Informatik| :green_book: | Messtechnik und medizinische Assistenzsysteme ||
+| TUM Informatik| :green_book: | Neuroprosthetics ||
 | TUM Projekt |:green_book: | Applied Deep Learning in Medicine |
+| TUM Projekt |:green_book: | Entwicklung und Design nützlicher autonomer Fahrzeuge |
+| TUM Projekt |:green_book: | Modelling and control of legged robots |
 | TUM Master-Seminar | :green_book: | Rehabilitation Robotics ||
 | TUM Seminar | :green_book: | Ethische Herausforderungen von autonomen Maschinen und sprechenden Computern ||
 | TUM Seminar | :green_book: | Angewandte Verantwortungsethik - Wildtiermanagement und Naturschutz ||
