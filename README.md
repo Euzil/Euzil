@@ -70,6 +70,7 @@
 | TUM Master-Seminar | Rehabilitation Robotics ||
 | TUM Seminar | Moralische Bots? - Ethische Herausforderungen von autonomen Maschinen und sprechenden Computern ||
 | TUM Seminar | Angewandte Verantwortungsethik - Wildtiermanagement und Naturschutz ||
+| TUM Seminar | Machine Learning and Society  ||
 | My Idea | PythonScript |
 | Team Work | SIM2REAL |
 | TUM Projekt | Robot Motion Planning |
@@ -94,6 +95,7 @@
 | TUM Master-Seminar | :green_book: | Rehabilitation Robotics ||
 | TUM Seminar | :green_book: | Ethische Herausforderungen von autonomen Maschinen und sprechenden Computern ||
 | TUM Seminar | :green_book: | Angewandte Verantwortungsethik - Wildtiermanagement und Naturschutz ||
+| TUM Seminar | :green_book: | Machine Learning and Society  ||
 | My Idea |  :green_book: | PythonScript |
 | My Idea |  :green_book: | DiscordRob |
 | My Idea |  :heavy_check_mark: | QQzone |
@@ -128,7 +130,7 @@
 | TUM Informatik| :green_book: | Maschine Learning |
 | TUM Informatik| :heavy_check_mark: | Visual Data Analytics |
 | TUM Informatik| :green_book: | Introduction to Deep Learning |
-| TUM Regelgungstechnik| :green_book: | Dynamische Systeme |
+| TUM Regelgungstechnik| :heavy_check_mark: | Dynamische Systeme |
 | TUM Regelgungstechnik| :heavy_check_mark: | Entrepreneurial Opportunities in 6G |  
 | TUM Informatik| :green_book: | Biomechanik - Grundlagen und Modellbildung ||
 | TUM Informatik| :green_book: | Cloud Computing ||
@@ -144,3 +146,4 @@
 | TUM Master-Seminar | :green_book: | Rehabilitation Robotics ||
 | TUM Seminar | :green_book: | Ethische Herausforderungen von autonomen Maschinen und sprechenden Computern ||
 | TUM Seminar | :green_book: | Angewandte Verantwortungsethik - Wildtiermanagement und Naturschutz ||
+| TUM Seminar | :green_book: | Machine Learning and Society  ||
