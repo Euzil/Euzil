@@ -62,22 +62,16 @@
 | TUM Informatik| Messtechnik und medizinische Assistenzsysteme ||
 | TUM Informatik| Neuroprosthetics ||
 | TUM Informatik| Biomechanik - Grundlagen und Modellbildung ||
-| TUM Informatik| Cloud Computing ||
 | TUM Informatik| Computer Vision II: Multiple View Geometry ||
-| TUM Informatik| Informatikanwendungen in der Medizin II ||
 | TUM Informatik| Introduction to Emerging Computing Technologies ||
 | TUM Informatik| Introduction to ROS ||
 | TUM Master-Seminar | Rehabilitation Robotics ||
 | TUM Seminar | Moralische Bots? - Ethische Herausforderungen von autonomen Maschinen und sprechenden Computern ||
-| TUM Seminar | Angewandte Verantwortungsethik - Wildtiermanagement und Naturschutz ||
-| TUM Seminar | Machine Learning and Society  ||
 | My Idea | PythonScript |
 | Team Work | SIM2REAL |
-| TUM Projekt | Robot Motion Planning |
 | TUM Projekt | Applied Deep Learning in Medicine |
 | TUM Projekt | Entwicklung und Design nützlicher autonomer Fahrzeuge |
 | TUM Projekt | Modelling and control of legged robots |
-
 ### 我写了很多的代码...(其实就是作业啦)... (写过作业的人都知道这里边的门道儿有多深)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euzil&layout=compact&theme=tokyonight)  
 ### 做了一些项目...
@@ -94,8 +88,6 @@
 | TUM Projekt |:green_book: | Modelling and control of legged robots |
 | TUM Master-Seminar | :green_book: | Rehabilitation Robotics ||
 | TUM Seminar | :green_book: | Ethische Herausforderungen von autonomen Maschinen und sprechenden Computern ||
-| TUM Seminar | :green_book: | Angewandte Verantwortungsethik - Wildtiermanagement und Naturschutz ||
-| TUM Seminar | :green_book: | Machine Learning and Society  ||
 | My Idea |  :green_book: | PythonScript |
 | My Idea |  :green_book: | DiscordRob |
 | My Idea |  :heavy_check_mark: | QQzone |
@@ -133,9 +125,7 @@
 | TUM Regelgungstechnik| :heavy_check_mark: | Dynamische Systeme |
 | TUM Regelgungstechnik| :heavy_check_mark: | Entrepreneurial Opportunities in 6G |  
 | TUM Informatik| :green_book: | Biomechanik - Grundlagen und Modellbildung ||
-| TUM Informatik| :green_book: | Cloud Computing ||
 | TUM Informatik| :green_book: | Computer Vision II: Multiple View Geometry ||
-| TUM Informatik| :green_book: | Informatikanwendungen in der Medizin II ||
 | TUM Informatik| :green_book: | Introduction to Emerging Computing Technologies ||
 | TUM Informatik| :green_book: | Introduction to ROS ||
 | TUM Informatik| :green_book: | Messtechnik und medizinische Assistenzsysteme ||
@@ -145,5 +135,3 @@
 | TUM Projekt |:green_book: | Modelling and control of legged robots |
 | TUM Master-Seminar | :green_book: | Rehabilitation Robotics ||
 | TUM Seminar | :green_book: | Ethische Herausforderungen von autonomen Maschinen und sprechenden Computern ||
-| TUM Seminar | :green_book: | Angewandte Verantwortungsethik - Wildtiermanagement und Naturschutz ||
-| TUM Seminar | :green_book: | Machine Learning and Society  ||
