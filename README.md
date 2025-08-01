@@ -65,8 +65,6 @@
 | TUM Informatik| Computer Vision II: Multiple View Geometry ||
 | TUM Informatik| Introduction to Emerging Computing Technologies ||
 | TUM Informatik| Introduction to ROS ||
-| TUM Master-Seminar | Rehabilitation Robotics ||
-| TUM Seminar | Moralische Bots? - Ethische Herausforderungen von autonomen Maschinen und sprechenden Computern ||
 | My Idea | PythonScript |
 | Team Work | SIM2REAL |
 | TUM Projekt | Applied Deep Learning in Medicine |
@@ -87,8 +85,9 @@
 | TUM Projekt |:green_book: | Applied Deep Learning in Medicine |
 | TUM Projekt |:green_book: | Entwicklung und Design nützlicher autonomer Fahrzeuge |
 | TUM Projekt |:green_book: | Modelling and control of legged robots |
-| TUM Master-Seminar | :green_book: | Rehabilitation Robotics ||
-| TUM Seminar | :green_book: | Ethische Herausforderungen von autonomen Maschinen und sprechenden Computern ||
+| TUM Master-Seminar | :heavy_check_mark: | Rehabilitation Robotics ||
+| TUM Projekt |:heavy_check_mark: | Cristiano Robot |
+| TUM Informatik|:heavy_check_mark: | Introduction to ROS ||
 | My Idea |  :green_book: | PythonScript |
 | My Idea |  :green_book: | DiscordRob |
 | My Idea |  :heavy_check_mark: | QQzone |
@@ -134,5 +133,4 @@
 | TUM Projekt |:green_book: | Applied Deep Learning in Medicine |
 | TUM Projekt |:green_book: | Entwicklung und Design nützlicher autonomer Fahrzeuge |
 | TUM Projekt |:green_book: | Modelling and control of legged robots |
-| TUM Master-Seminar | :green_book: | Rehabilitation Robotics ||
-| TUM Seminar | :green_book: | Ethische Herausforderungen von autonomen Maschinen und sprechenden Computern ||
+| TUM Master-Seminar | 避雷！ | Rehabilitation Robotics ||
