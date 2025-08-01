@@ -29,7 +29,6 @@
 </div>
 
 ![](url)
-# 欢迎 :wave: 第 [![Visitor Count](https://profile-counter.glitch.me/Euzil/count.svg)] 位好朋友  
 ### 一些数据 :floppy_disk: 
 ![](https://stats.justsong.cn/api/leetcode?username=Euzil&cn=true&theme=tokyonight)
 ![](https://stats.justsong.cn/api/bilibili/?id=515516716&cn=true&theme=blue-green)  
