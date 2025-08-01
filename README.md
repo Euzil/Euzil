@@ -72,6 +72,7 @@
 | TUM Projekt | Applied Deep Learning in Medicine |
 | TUM Projekt | Entwicklung und Design nützlicher autonomer Fahrzeuge |
 | TUM Projekt | Modelling and control of legged robots |
+| TUM Projekt | Cristiano Robot |
 ### 我写了很多的代码...(其实就是作业啦)... (写过作业的人都知道这里边的门道儿有多深)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euzil&layout=compact&theme=tokyonight)  
 ### 做了一些项目...
