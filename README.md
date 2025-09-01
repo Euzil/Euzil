@@ -62,7 +62,6 @@
 | TUM Informatik| Neuroprosthetics ||
 | TUM Informatik| Biomechanik - Grundlagen und Modellbildung ||
 | TUM Informatik| Computer Vision II: Multiple View Geometry ||
-| TUM Informatik| Introduction to Emerging Computing Technologies ||
 | TUM Informatik| Introduction to ROS ||
 | My Idea | PythonScript |
 | Team Work | SIM2REAL |
@@ -125,7 +124,7 @@
 | TUM Regelgungstechnik| :heavy_check_mark: | Entrepreneurial Opportunities in 6G |  
 | TUM Informatik| :green_book: | Biomechanik - Grundlagen und Modellbildung ||
 | TUM Informatik| :green_book: | Computer Vision II: Multiple View Geometry ||
-| TUM Informatik| :green_book: | Introduction to Emerging Computing Technologies ||
+| TUM Informatik| :heavy_check_mark: | Introduction to Emerging Computing Technologies ||
 | TUM Informatik| :green_book: | Introduction to ROS ||
 | TUM Informatik| :green_book: | Messtechnik und medizinische Assistenzsysteme ||
 | TUM Informatik| :green_book: | Neuroprosthetics ||
