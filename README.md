@@ -56,7 +56,6 @@
 | 所属 |  科目名称 |
 | :-----|  :----: |
 | TUM Informatik| Maschine Learning |
-| TUM Informatik| Biomechanik - Grundlagen und Modellbildung ||
 | TUM Informatik| Computer Vision II: Multiple View Geometry ||
 ### 我写了很多的代码...(其实就是作业啦)... (写过作业的人都知道这里边的门道儿有多深)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euzil&layout=compact&theme=tokyonight)  
