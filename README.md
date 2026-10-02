@@ -33,12 +33,12 @@
 ![](https://stats.justsong.cn/api/bilibili/?id=515516716&cn=true&theme=blue-green)  
 ### About Me :runner:
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=10&color=BC20F7&center=true&vCenter=true&width=435&lines=%E8%87%AA%E7%94%B1%E6%87%92%E6%95%A3...;%E4%B8%8D%E7%88%B1%E5%AD%A6%E4%B9%A0...;%E6%91%86%E7%83%82%E7%AC%AC%E4%B8%80%E5%90%8D...;%E5%B9%B2%E9%A5%AD%E5%B0%8F%E8%83%BD%E6%89%8B...;%E5%B9%B2%E5%95%A5%E5%95%A5%E4%B8%8D%E8%A1%8C...)](https://git.io/typing-svg)  
-<p>&emsp;&emsp;想要赶快毕业 :100: 啊啊啊啊啊.......</p>
-<p>&emsp;&emsp;因为太多Repositories... :books: 不太好管理啦...</p>
-<p>&emsp;&emsp;如果有需要的朋友 :raising_hand:...</p>  
+<p>&emsp;&emsp;想要赶快毕业 :100: </p>
+<p>&emsp;&emsp;太多Repositories... :books: 不太好管理...</p>
+<p>&emsp;&emsp;有需要的朋友 :raising_hand:...</p>  
 <p>&emsp;&emsp;有代码问题需要借鉴 :clipboard: 的同学... 你以为我不知道你是直接来抄作业的？</p>   
 <p>&emsp;&emsp;可以直接留言 :speech_balloon: 给我...</p>
-<p>&emsp;&emsp;我会直接公开一些项目在这里...po一些很不错的代码...希望会对各位有帮助啦！！！</p>
+<p>&emsp;&emsp;我会直接公开一些项目在这里...po一些很不错的代码...=</p>
 <p>&emsp;&emsp;<strong>欢迎大家star :gift_heart: 我的代码</strong></p>
 
 
@@ -57,7 +57,7 @@
 | TUM Master-Seminar | Fortgeschrittene Themen des Softwaretests |
 | TUM Projekt | Robot Motion Planning |
 | TUM Informatik| Matserarbeit |
-### 我写了很多的代码...(其实就是作业啦)... (写过作业的人都知道这里边的门道儿有多深)  
+### 写了很多的代码... (写过作业的人都知道这里边的门道儿有多深)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euzil&layout=compact&theme=tokyonight)  
 ### 做了一些项目...
 | 所属 | 状态 | 项目名称 |
