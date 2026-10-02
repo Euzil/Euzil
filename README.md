@@ -56,7 +56,9 @@
 | 所属 |  科目名称 |
 | :-----|  :----: |
 | TUM Informatik| Maschine Learning |
-| TUM Informatik| Computer Vision II: Multiple View Geometry ||
+| TUM Master-Seminar | Fortgeschrittene Themen des Softwaretests |
+| TUM Projekt | Robot Motion Planning |
+| TUM Informatik| Matserarbeit |
 ### 我写了很多的代码...(其实就是作业啦)... (写过作业的人都知道这里边的门道儿有多深)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euzil&layout=compact&theme=tokyonight)  
 ### 做了一些项目...
@@ -71,15 +73,16 @@
 | TUM Projekt |:heavy_check_mark: | Applied Deep Learning in Medicine |
 | TUM Projekt |:heavy_check_mark: | Entwicklung und Design nützlicher autonomer Fahrzeuge |
 | TUM Projekt |:heavy_check_mark: | Modelling and control of legged robots |
-| TUM Master-Seminar | :heavy_check_mark: | Rehabilitation Robotics ||
+| TUM Master-Seminar | :heavy_check_mark: | Automated Mobile App Testing ||
 | TUM Projekt |:heavy_check_mark: | Cristiano Robot |
 | TUM Informatik|:heavy_check_mark: | Introduction to ROS ||
+| TUM Informatik| :green_book: | Matserarbeit ||
 | My Idea |  :green_book: | PythonScript |
 | My Idea |  :green_book: | DiscordRob |
 | My Idea |  :heavy_check_mark: | QQzone |
 | Team Work |  :green_book: | SIM2REAL |
 
-### 我的鼓捣：
+### 我的功课：
 | 所属 | 状态 | 科目名称 |
 | :-----| ----: | :----: |
 | UniLuebeck Math |:heavy_check_mark:| Analysis |
@@ -103,13 +106,11 @@
 | TUM Informatik| :heavy_check_mark: | TUM-IT Sicherheit |
 | TUM Informatik| :heavy_check_mark: | Einfuehrung-in-die-Rechnerarchitektur |
 | TUM Robotik| :heavy_check_mark: | Robotik |
-| TUM Projekt | :heavy_check_mark:| Robot Motion Planning |
 | TUM Informatik| :heavy_check_mark: | Fundamentals of AI |
-| TUM Informatik| :green_book: | Maschine Learning |
 | TUM Informatik| :heavy_check_mark: | Visual Data Analytics |
 | TUM Regelgungstechnik| :heavy_check_mark: | Dynamische Systeme |
 | TUM Regelgungstechnik| :heavy_check_mark: | Entrepreneurial Opportunities in 6G |  
-| TUM Informatik| :green_book: | Computer Vision II: Multiple View Geometry ||
+| TUM Informatik| :heavy_check_mark: | Computer Vision II: Multiple View Geometry ||
 | TUM Informatik| :heavy_check_mark: | Introduction to Emerging Computing Technologies ||
 | TUM Informatik| :heavy_check_mark: | Introduction to ROS ||
 | TUM Informatik| :heavy_check_mark:  | Principles of Economics ||
@@ -118,4 +119,7 @@
 | TUM Projekt |:heavy_check_mark: | Entwicklung und Design nützlicher autonomer Fahrzeuge |
 | TUM Projekt |:heavy_check_mark: | Modelling and control of legged robots |
 | TUM Master-Seminar |:heavy_check_mark: | Automated Mobile App Testing |
+| TUM Informatik| :green_book: | Maschine Learning |
+| TUM Master-Seminar |:green_book: | Fortgeschrittene Themen des Softwaretests |
+| TUM Projekt | :green_book:| Robot Motion Planning |
 | TUM Master-Seminar | 避雷！ | Rehabilitation Robotics ||
