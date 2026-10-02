@@ -9,6 +9,13 @@
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
+<!-- profile logo 个人资料徽标 -->
+  <div>
+   <img alt="Static Badge" src="https://img.shields.io/badge/Uni_luebeck-TU_Munich-Munich?logoColor=green">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Student-Informatiker-1?logoColor=green&labelColor=purple&color=yellow">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Mashine_Learning-Deep_Learning-3?logoColor=green&labelColor=orange&color=blue">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Robtics-AI-1?logoColor=green&labelColor=red&color=black">
+  </div>
 
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
