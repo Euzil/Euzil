@@ -77,9 +77,6 @@
 | TUM Projekt |:heavy_check_mark: | Cristiano Robot |
 | TUM Informatik|:heavy_check_mark: | Introduction to ROS ||
 | TUM Informatik| :green_book: | Matserarbeit ||
-| My Idea |  :green_book: | PythonScript |
-| My Idea |  :green_book: | DiscordRob |
-| My Idea |  :heavy_check_mark: | QQzone |
 | Team Work |  :green_book: | SIM2REAL |
 
 ### 我的功课：
