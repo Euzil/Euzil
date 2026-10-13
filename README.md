@@ -114,7 +114,8 @@
 | TUM Projekt |:heavy_check_mark: | Entwicklung und Design nützlicher autonomer Fahrzeuge |
 | TUM Projekt |:heavy_check_mark: | Modelling and control of legged robots |
 | TUM Master-Seminar |:heavy_check_mark: | Automated Mobile App Testing |
+| TUM Projekt |:green_book: | Computer-assisted Interventions and Therapy |
 | TUM Informatik| :green_book: | Maschine Learning |
-| TUM Master-Seminar |:green_book: | Fortgeschrittene Themen des Softwaretests |
-| TUM Projekt | :green_book:| Robot Motion Planning |
+| TUM Informatik| :green_book: | Formal Methods for Cyber-Physical Systems |
+| TUM Informatik| :green_book: |  3D Scanning & Motion Capture |
 | TUM Master-Seminar | 避雷！ | Rehabilitation Robotics ||
